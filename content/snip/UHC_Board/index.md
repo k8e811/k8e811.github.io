@@ -1,3 +1,8 @@
++++
+title = "UHC Board (Removed from website)"
+date = "2024-12-06"
++++
+
 # UHC Board (Removed from website)
 
 1. Andrew Witty is Unted Health Group's CEO.  He has led the compnay since February 2021
